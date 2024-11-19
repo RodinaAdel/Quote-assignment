@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+/* general */
+.container-fluid{background-color: antiquewhite;
+}
+.header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+font-weight: 800;
+color: teal;
+}
+.paragraph {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+.outputQuote ,.outputAuthor{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+.button{
+    margin-left: 600px;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    background-color: teal;
+}
+button:hover{
+    background-color: thistle;
+    transition: all 0.05s;
+}
